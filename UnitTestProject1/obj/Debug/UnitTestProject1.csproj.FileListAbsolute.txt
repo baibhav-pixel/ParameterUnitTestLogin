@@ -15,3 +15,20 @@ E:\Azure DevOps\T3Pipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.Tes
 E:\Azure DevOps\T3Pipeline\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
 E:\Azure DevOps\T3Pipeline\UnitTestProject1\obj\Debug\UnitTestProject1.dll
 E:\Azure DevOps\T3Pipeline\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\ConsoleApp1.exe
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\ConsoleApp1.pdb
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\ConsoleApp1.exe.config
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\ParaTestCasePipeline\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\ParaTestCasePipeline\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+E:\ParaTestCasePipeline\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+E:\ParaTestCasePipeline\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+E:\ParaTestCasePipeline\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\ParaTestCasePipeline\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
