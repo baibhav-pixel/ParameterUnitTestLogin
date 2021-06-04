@@ -1,0 +1,6 @@
+E:\Azure DevOps\T3Pipeline\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Azure DevOps\T3Pipeline\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Azure DevOps\T3Pipeline\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Azure DevOps\T3Pipeline\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Azure DevOps\T3Pipeline\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Azure DevOps\T3Pipeline\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
