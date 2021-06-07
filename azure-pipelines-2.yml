@@ -59,3 +59,4 @@ stages:
               platform: '$(buildPlatform)'
               configuration: '$(buildConfiguration)'
            - script: echo 'Testing application'
+           - task: PublishBuildArtifacts@1
